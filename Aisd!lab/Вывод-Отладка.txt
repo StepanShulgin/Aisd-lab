@@ -1,0 +1,15 @@
+﻿"Aisd!lab.exe" (Win32). Загружено "C:\Users\stepa\source\repos\Aisd!lab\Debug\Aisd!lab.exe". Символы загружены.
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ntdll.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel32.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\KernelBase.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcp140d.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\vcruntime140d.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\ucrtbased.dll". 
+Поток 0x2270 завершился с кодом 0 (0x0).
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\sechost.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\kernel.appcore.dll". 
+"Aisd!lab.exe" (Win32). Загружено "C:\Windows\SysWOW64\msvcrt.dll". 
+Поток 0x5c90 завершился с кодом 0 (0x0).
+Поток 0x2c38 завершился с кодом 0 (0x0).
+Поток 0x5098 завершился с кодом 0 (0x0).
+Программа "[2500] Aisd!lab.exe" завершилась с кодом 0 (0x0).
