@@ -1,0 +1,11 @@
+﻿  UnitTestAisd1lab.cpp
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(90,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(104,45): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(119,42): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(139,35): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(250,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(269,31): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(297,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\stepa\source\repos\Aisd!lab\Aisd!lab\List.h(123): warning C4715: List::contains: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\stepa\source\repos\Aisd!lab\Debug\UnitTestAisd1lab.lib и объект C:\Users\stepa\source\repos\Aisd!lab\Debug\UnitTestAisd1lab.exp
+  UnitTestAisd1lab.vcxproj -> C:\Users\stepa\source\repos\Aisd!lab\Debug\UnitTestAisd1lab.dll
